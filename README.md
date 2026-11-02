@@ -13,7 +13,7 @@ Overall, the results suggests that a simple neural network that considers neighb
 In this project, I did not set out to create a complete and optimised model to predict protein structure. 
 Instead, I used this project as a learning opportunity. Therefore, the model itself is not very good.
 
-## Used data:
+## Used data
 For this project, I  make use of a dataset containing a subset of protein data with their respective structural annotations from the Research Collaboratory for Structural Bioinformatics Protein Data Bank, 
 that has been filtered using the Protein Sequence Culling Server (% identity cutoff: 25%, resolution cutoff: 2Å, R-factor cutoff: 0.25), available from this URL: https://www.kaggle.com/datasets/alfrandom/protein-secondary-structure/data.
 
