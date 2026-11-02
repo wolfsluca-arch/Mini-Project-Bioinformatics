@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Unused Data
+2018-06-06-ss.cleaned.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other notebooks (keep final notebook)
+*.ipynb
+!Wolfs_Luca_P1_2026.ipynb

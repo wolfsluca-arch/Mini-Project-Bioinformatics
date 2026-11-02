@@ -1,0 +1,2 @@
+Total Test Amino Acids Evaluated: 336204
+Accuracy Score: 68.13%
